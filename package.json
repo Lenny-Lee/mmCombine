@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "author": "Lenny <zhanglei@zhoupudata.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "mobx": "6.10.2",
+    "mobx-persist": "^0.4.1",
+    "mobx-react": "^7.2.0",
+    "mobx-react-lite": "^3.2.0",
+    "umi": "^4.3.32"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}

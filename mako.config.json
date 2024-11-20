@@ -1,0 +1,6 @@
+{
+    "autoCSSModules": true,
+    "watch": {
+        "ignorePaths": ["node_modules"]
+      }
+}
